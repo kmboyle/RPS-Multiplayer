@@ -1,0 +1,11 @@
+
+h1{
+	background-color: grey;
+}
+
+.player1, .winner, .player2 {
+	border: black solid 2px;
+	height: 400px;
+	width: 400px;
+	margin: 20px;
+}
